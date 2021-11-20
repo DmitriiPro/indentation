@@ -1,0 +1,39 @@
+.content-container {
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+
+.content__title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+
+.content__list {
+    counter-reset: section;      
+}
+
+.content__item {
+    color: #02535F;
+    padding-left: 18px;
+}
+
+.content__item::before {
+    counter-increment: section;
+    content: counter(section)'. ';
+}
+
+.item {
+    padding-bottom: 25px;
+}
+
+.content__item:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+.content__link {
+    text-decoration: underline;
+}

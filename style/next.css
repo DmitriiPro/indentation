@@ -1,0 +1,39 @@
+.next-container {
+    height: 840px;
+}
+
+.next__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.next__element:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.next__left-img {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+.next__right-text {
+    display: inline-block;
+    width: 490px;
+}
+
+.next__img-sleep {
+    float: right;
+    margin-left: 40px;
+}
+
+.next__left-text {
+    display: inline-block;
+    width: 480px;
+}
+
+.next__element-left:not(:last-child) {
+    margin-bottom: 30px;
+}

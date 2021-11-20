@@ -1,0 +1,14 @@
+.indent {
+    padding-top: 60px;
+}
+
+.indent__title {
+    font-weight: 900;
+    font-size: 60px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.indent__element:not(:last-child) {
+    margin-bottom: 30px;
+}

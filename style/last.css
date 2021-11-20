@@ -1,0 +1,79 @@
+.last__title {
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.last__element-one { 
+    margin-bottom: 30px;
+}
+
+.last__figure {
+    margin-bottom: 29px;
+}
+
+.last__img-dark {
+    margin-bottom: 30px;
+    display: block;
+} 
+
+.last__img-white {
+    margin-left: 239px;
+    display: block;
+}
+
+.last__element-two {
+    margin-bottom: 31px;
+}
+
+.last__figcaption {
+    color: #5E5E5E;
+    font-weight: bold;
+    padding: 15px 30px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    border-top: transparent;
+    
+}
+
+.last__figure-two {
+    margin-bottom: 30px;
+}
+
+.last__img-recipes {
+    display: block;
+}
+
+.last__element-three {
+    margin-bottom: 30px;
+}
+
+.last__element-four {
+    margin-bottom: 30px;
+}
+
+.last__figure-three {
+    
+    margin-left: 58px;
+    margin-bottom: 30px;
+}
+
+.last__img-section {
+    display: block;
+}
+
+.last__element-five {
+    margin-bottom: 30px;
+}
+
+.last__figure-four {
+    margin-left: 27px;
+    margin-bottom: 30px;
+}
+
+.last__img-cat {
+    display: block;
+}
+
+
