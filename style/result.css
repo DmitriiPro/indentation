@@ -5,7 +5,7 @@
 .container-result {
     background: #F1F1F1;
     border-radius: 10px;
-    padding: 25px 30px 22px 30px;
+    padding: 25px 30px 25px 30px;
 }
 
 .result__title {
@@ -15,10 +15,10 @@
     margin-bottom: 19px;
 }
 
-.result__item:not(:last-child) {
-    margin-bottom: 9px;
+.result__list {
+    margin-bottom: 29px;
 }
 
-.item-last {
-    margin-bottom: 29px;
+.result__item:not(:last-child) {
+    margin-bottom: 9px;
 }

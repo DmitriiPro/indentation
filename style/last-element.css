@@ -10,7 +10,7 @@
 }
 
 .last-element__figure-one {
-    margin-left: 240px;
+    padding-left: 240px;
     margin-bottom: 30px;
 }
 
@@ -27,9 +27,13 @@
     margin-bottom: 30px;
 }
 
-.last-element__img-first {
-    margin-left: 240px;
+.last-element__figure-img-first {
     margin-bottom: 30px;
+}
+
+.last-element__img-first {
+    display: block;
+    margin: 0 auto;
 }
 
 .p-three {
@@ -47,7 +51,7 @@
 
 .last-element__figure-img-header {
     display: block;
-    margin-left: 137px;
+    margin: 0 auto ;
 }
 
 .p-four {
@@ -60,7 +64,7 @@
 
 .last-element__header-menu-item {
     display: block;
-    margin-left: 382px;
+    margin: 0 auto;
 }
 
 .p-five {
@@ -69,6 +73,6 @@
 
 .last-element__img-last-child {
     display: block;
-    margin-left: 290px;
+    margin: 0 auto;
 }
 

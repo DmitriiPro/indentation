@@ -19,7 +19,7 @@
 } 
 
 .last__img-white {
-    margin-left: 239px;
+    margin: 0 auto;
     display: block;
 }
 
@@ -34,7 +34,6 @@
     background: #FFFFFF;
     border: 1px solid #000000;
     border-top: transparent;
-    
 }
 
 .last__figure-two {
@@ -54,8 +53,7 @@
 }
 
 .last__figure-three {
-    
-    margin-left: 58px;
+    padding-left: 58px;
     margin-bottom: 30px;
 }
 
@@ -68,11 +66,11 @@
 }
 
 .last__figure-four {
-    margin-left: 27px;
     margin-bottom: 30px;
 }
 
 .last__img-cat {
+    margin: 0 auto;
     display: block;
 }
 
